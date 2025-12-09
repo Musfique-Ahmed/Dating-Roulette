@@ -6,7 +6,7 @@ A fun, mobile-first dating simulation game based on the famous "Secretary Proble
 
 ## 🎮 Play Now
 
-**[Play Dating Roulette](https://musfique-ahmed.github.io/FunProjects/dating-roulette/)**
+**[Play Dating Roulette](https://musfique-ahmed.github.io/Dating-Roulette/)**
 
 ## 📖 How to Play
 
